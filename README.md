@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @SurajPrasad78
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+SurajPrasad78/SurajPrasad78 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+I am BCA Students.
+I'm interested in coding.
+I'm know Coding language C , C++ , Python, Sql, Sqlite ,html, css, javascript.
